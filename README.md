@@ -118,31 +118,31 @@
 ## Контрольні питання
 
 1. **Типи даних в JavaScript**
-   - Примітивні: string, number, boolean, null, undefined, symbol, bigint
-   - Об'єктні: object, array, function
+   - Примітивні: string, number, boolean, null, undefined, symbol, bigint
+   - Об'єктні: object, array, function
 
 2. **Оператори**
-   - Арифметичні: `+`, `-`, `*`, `/`, `%`, `**`
-   - Порівняння: `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`
-   - Логічні: `&&`, `||`, `!`
-   - Присвоєння: `=`, `+=`, `-=`, `*=`, `/=`
+   - Арифметичні: `+`, `-`, `*`, `/`, `%`, `**`
+   - Порівняння: `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`
+   - Логічні: `&&`, `||`, `!`
+   - Присвоєння: `=`, `+=`, `-=`, `*=`, `/=`
 
 3. **Робота з DOM**
-   - `document.getElementById()`
-   - `document.querySelector()`
-   - `element.innerHTML`, `element.textContent`
-   - `element.addEventListener()`
+   - `document.getElementById()`
+   - `document.querySelector()`
+   - `element.innerHTML`, `element.textContent`
+   - `element.addEventListener()`
 
 4. **Обробка подій в JavaScript**
-   - `addEventListener(event, handler)`
-   - Події: `click`, `change`, `submit`, `load`
-   - Event object та його властивості
+   - `addEventListener(event, handler)`
+   - Події: `click`, `change`, `submit`, `load`
+   - Event object та його властивості
 
 5. **Способи реалізації асинхронності в JavaScript**
-   - Callbacks
-   - Promises (`.then()`, `.catch()`, `.finally()`)
-   - Async/Await
-   - `fetch()` API
+   - Callbacks
+   - Promises (`.then()`, `.catch()`, `.finally()`)
+   - Async/Await
+   - `fetch()` A
 
 ---
 
@@ -152,15 +152,15 @@
 2. Після завершення — створює **Pull Request у main**
 3. Коміти пишуться **українською**, коротко і по суті
 4. Обов'язкові вимоги:
-   - Валідна структура HTML5
-   - Асинхронна робота з API
-   - Обробка помилок
-   - Коментарі в коді
+   - Валідна структура HTML5
+   - Асинхронна робота з API
+   - Обробка помилок
+   - Коментарі в коді
 5. Рекомендації:
-   - Використати `async/await` для читабельності
-   - Додати CSS для покращення вигляду
-   - Реалізувати loading indicator
-   - Перевірити роботу в різних браузерах
+   - Використати `async/await` для читабельності
+   - Додати CSS для покращення вигляду
+   - Реалізувати loading indicator
+   - Перевірити роботу в різних браузерах
 
 ## Приклад структури коду
 
