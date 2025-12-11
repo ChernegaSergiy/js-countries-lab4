@@ -142,7 +142,7 @@
    - Callbacks
    - Promises (`.then()`, `.catch()`, `.finally()`)
    - Async/Await
-   - `fetch()` A
+   - `fetch()` API
 
 ---
 
